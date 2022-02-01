@@ -3,7 +3,20 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter() // Warning: this repository is going to shut down soon
+        jcenter()// Warning: this repository is going to shut down soon
+        maven {
+            url 'https://api.mapbox.com/downloads/v2/releases/maven'
+            authentication {
+                basic(BasicAuthentication)
+            }
+            credentials {
+                // Do not change the username below.
+                // This should always be `mapbox` (not your username).
+                username = "mapbox"
+                // Use the secret token you stored in gradle.properties as the password
+                password = "pk.eyJ1IjoiY2FuZHJha3VybmlhIiwiYSI6ImNreGFoeXZ1eDJxN3Uyb211ZXYxbzZrcnMifQ.qldUxzI9_Ik5SDf_Zat3Xg"
+            }
+        }
     }
 }
 rootProject.name = "MyAmbulanceDriver"

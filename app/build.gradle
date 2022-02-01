@@ -46,4 +46,10 @@ dependencies {
 
     // Logging Interceptor
     implementation 'com.squareup.okhttp3:logging-interceptor:4.7.2'
+
+    //Mapbox
+
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:8.6.7'
+
+
 }
