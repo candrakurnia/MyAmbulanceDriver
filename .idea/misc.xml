@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Candra/MyAmbulanceDriver/app/src/main/res/layout/activity_login.xml" value="0.25" />
-        <entry key="..\:/Users/Candra/MyAmbulanceDriver/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Candra/MyAmbulanceDriver/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Candra/MyAmbulanceDriver/app/src/main/res/layout/activity_maps.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/Candra/MyAmbulanceDriver/app/src/main/res/layout/activity_onboarding.xml" value="0.25" />
         <entry key="..\:/Users/Candra/MyAmbulanceDriver/app/src/main/res/layout/activity_splash_screen.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Candra/MyAmbulanceDriver/app/src/main/res/layout/item_list_history.xml" value="0.22447916666666667" />
       </map>
     </option>
   </component>

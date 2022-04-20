@@ -4,5 +4,10 @@
     <string name="txt_login">Please enter details below to continue</string>
     <string name="regist">Don\'t have an account? Sign Up</string>
     <string name="login">Login</string>
-    <string name="mapbox_access_token">sk.eyJ1IjoiY2FuZHJha3VybmlhIiwiYSI6ImNrejQ4NjhvODBieWsyb21lZG1wMTJtMmkifQ.xY1_SBgHrtSe2VGzSW2R2g</string>
+    <string name="maps_api_key">AIzaSyA0s196dunrIXdYdJ6NH5q2xwzkuyn_vP8</string>
+    <string name="go_online">Go Online</string>
+    <string name="need_location">Enable GPS SERVICE</string>
+    <string name="location_content">This app wants to change your device settings use GPS,Wi-Fi and cell networks for
+        your location
+    </string>
 </resources>
