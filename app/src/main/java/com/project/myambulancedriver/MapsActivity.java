@@ -137,6 +137,7 @@ public class MapsActivity extends AppCompatActivity {
                 Toast.makeText(this, "Location Permission denied", Toast.LENGTH_SHORT).show();
                 finish();
             } else if (value == PackageManager.PERMISSION_GRANTED) requestLocationUpdates();
+
         }
     }
 }
